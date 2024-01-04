@@ -6,19 +6,19 @@ Also, all of the course materials are available to you in a GitHub repository. B
 
 ## Creating a GitHub account
 
-The following will help you create a GitHub account and copy the course repository into your own account.
+First, you will need to create a GitHub account and copy the course repository into your own account.
 This will allow you to have your own copy of the assignments, a place to write programs, and a repository in Github that you can submit your assignments to.  
 
-First, create your free [GitHub](http://github.com) account 
+Step 1: create your free [GitHub](http://github.com) account 
 
 * Go to [GitHub](http://github.com)
 * Create a (free) user account
 
 ## Copy the course repository to your own GitHub account
 
-Next, go to the [course repository](https://github.com/bhurwitz33/be434-spring-2023) and click the "Fork" button so as to make a copy of the code into your own Github account.
+Step 2: go to the [course repository](https://github.com/hurwitzlab/be434-Spring2024) and click the "Fork" button to make a copy of the code into your own Github account.
 
-* Go to [the course repo](https://github.com/bhurwitz33/be434-spring-2023)
+* Go to [the course repo](https://github.com/hurwitzlab/be434-Spring2024)
 * Click the "Fork" button (upper-right)
 * Indicate that you will use it for personal reasons
 
@@ -30,9 +30,9 @@ This will create a new repository in your Github account.
 
 ## Share your "copy" of the course repository with the instructor
 
-All your assignments will be pushed to GitHub where I will pull the code to my machine for checking and grading. Add my GitHub username "bhurwitz33" as a Collaborator on your repo so that I can push and pull code, and then email me your GitHub username and the URL for your repo (bhurwitz@arizona.edu). At the end of the semester, you will have a public repository of code you can share to show proficiency in Python coding and testing. 
+All your assignments will be pushed to GitHub where I will pull the code to my machine for checking and grading. Add my GitHub username "bhurwitz33" as a Collaborator on your repo so that I can push and pull code, and then email me your GitHub username and the URL for your repo (bhurwitz@arizona.edu). At the end of the semester, you will have a public repository of code to show proficiency in Python coding and testing. 
 
-* Go to the "Settings" for your repo called "be434-spring-2023"
+* Go to the "Settings" for your repo called "be434-Spring2024"
 * Choose "Manage Access" from the left panel
 * Click the green "Invite a collaborator" button
 * Add "bhurwitz33" and send
@@ -60,7 +60,7 @@ brew install git
 ### PC Users Git Installation
 
 * Download the .exe Git installation program from [Git](https://git-scm.com/) for your computer
-* Follow all defaults except for the following two. These are important settings, otherwise you will end up with an error saying that your Python tests fail due to "\r" return characters at the end of every line in your code. No fun!
+* Follow all defaults except for the following two. Without these settings you will end up with an error saying that your Python tests fail due to "\r" return characters at the end of every line in your code. No fun!
 
 
 ![4git](./images/1_win_git_editor.png "Tell Git you would like to use VS code as your editor.")
@@ -69,7 +69,7 @@ brew install git
 
 
 ## Install GitHub Desktop
-One option for using Git, is to download the Desktop version of the program [here](https://desktop.github.com/). Once you have Downloaded it, login to GitHub with Github Desktop and clone the BE434-spring-2023 repository to your laptop.
+One option for using Git, is to download the Desktop version of the program [here](https://desktop.github.com/). Once you have Downloaded it, login to GitHub with Github Desktop and clone your be434-Spring2024 repository to your laptop.
 
 
 ## Authors
