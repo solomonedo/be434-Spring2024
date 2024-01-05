@@ -16,13 +16,13 @@ You will learn about Pythin through simple coding examples. This will give you a
 ## Creating your development environment:
 To get the most out of this course, I strongly recommend that you install all of the required software on your machine (see setup documents). You will be writing and testing Python code directly on your machine. 
 
-## How to pass the class:
+## How to be sucessful in the class:
 Each week, we will cover one chapter in the text for the class [Tiny Python Projects](http://tinypythonprojects.com/) by Ken Youens-Clark. This text is available free of charge through the University of Arizona online catalog. Each week you will need to:
 
 * Watch the short video lectures, providing an overview of the chapter
 * Read the chapter
 * Complete the practice exercises for the chapter (in "examples" in the class GitHub repository)
-* Complete the practice quiz for the chapter (take multiple times to improve your score and learn)
+* Complete the quiz for the chapter
 * Complete the homework assignment for the chapter (in the class GitHub repository)
 * Use the slack discussion forum to ask questions, get help, or go deeper
 
