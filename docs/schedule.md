@@ -5,9 +5,9 @@
 * TPP = Tiny Python Projects by Ken Youens-Clark
 
 ```
-Week 1   (1/10-1/14): Course Introduction and Setup, TPP: Getting Started
+Week 1   (1/10-1/14): Course Introduction and Setup, TPP: Getting Started, HW0: 00_getting_started_part1
 
-Week 2   (1/15-1/21): Writing your first python program, TPP: Ch1
+Week 2   (1/15-1/21): Writing your first python program, TPP: Ch1, HW0: 00_getting_started_part2
 
 Week 3   (1/22-1/28): Hello (Strings), HW1: 01_salutations, Practice Quiz 1, TPP: Ch2 
 

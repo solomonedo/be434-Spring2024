@@ -23,7 +23,7 @@ Some experience programming Python is useful but not required.
 - Instructor: Bonnie Hurwitz, Associate Professor, Biosystems Engineering
 - Office: Bio5 Keating, Room 223 
 - E-mail: bhurwitz@arizona.edu
-- Office Hours: 11:00 AM Friday (Shantz 440) &
+- Office Hours: 12:00 PM Friday (Shantz 440) &
                 on Zoom (https://arizona.zoom.us/my/bonniehurwitz)
 - Course Website: https://github.com/hurwitzlab/be434-Spring2024
 
@@ -134,9 +134,9 @@ At the end of the semester, each student will implement a program in Python via 
 ## Scheduled Topics/Activities
 
 ```
-Week 1: Course Introduction and Setup
+Week 1: Course Introduction and Setup: HW0: 00_getting_started_part1
 
-Week 2: Writing your first python program, HW0: 00_getting_started
+Week 2: Writing your first python program, HW0: 00_getting_started_part2
 
 Week 3: Hello (Strings), HW1: 01_salutations, Practice Quiz 1
 
